@@ -1,0 +1,15 @@
+#cvs{
+	border: #09f solid;
+	border-width: 5px;
+}
+
+img{
+	display:none;
+}
+body{
+	background-color: #000;
+}
+canvas{
+	border: #09f solid;
+	border-width: 5px;
+}
